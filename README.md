@@ -1,5 +1,5 @@
 # CNN-python-in-Google-Colaboratory
 用於執行在Google Colaboratory的CNN模型
-import前皆為串聯googledriver跟Colaboratory與測試及列出Colaboratory相關資訊
-串聯googledriver跟Colaboratory執行完會出現一個連結
-透過此連結取得金鑰再輸入回下方空格處
+import前皆為串聯googledriver跟Colaboratory與測試及列出Colaboratory相關資訊。
+串聯googledriver跟Colaboratory執行完會出現一個連結，
+透過此連結取得金鑰再輸入回下方空格處。
